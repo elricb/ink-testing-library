@@ -9,7 +9,7 @@
 		"email": "vadimdemedes@hey.com",
 		"url": "https://github.com/vadimdemedes"
 	},
-	"type": "module",
+  "type": "commonjs",
 	"exports": {
 		"types": "./build/index.d.ts",
 		"default": "./build/index.js"
