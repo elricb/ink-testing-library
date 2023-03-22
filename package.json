@@ -1,5 +1,5 @@
 {
-	"name": "ink-testing-library",
+	"name": "@elricb/ink-testing-library",
 	"version": "3.0.1",
 	"description": "Utilities for testing Ink apps",
 	"license": "MIT",
